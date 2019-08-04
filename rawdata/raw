@@ -1,0 +1,353 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lesen",
+            "language": "de",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "notes": [
+                                {
+                                    "text": "irregular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "crossReferences": [
+                                        {
+                                            "id": "leviten",
+                                            "text": "Leviten",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "er hat wochenlang an dem Buch gelesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "he has been reading the book for weeks"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "er liest aus seinem neuesten Werk",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "he is reading from his latest work"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "die/eine Messe lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "say Mass/a Mass"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "hier ist zu lesen, dass …",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "it says here that …"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "der Text ist so zu lesen, dass …",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "the text is to be taken as meaning that …"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "domains": [
+                                                "Politics"
+                                            ],
+                                            "text": "ein Gesetz [zum ersten Mal] lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "give a bill a [first] reading"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "sie las in der Zeitung/in einem Buch",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "she was reading the paper/a book"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "id": "b-de-en0026233.002",
+                                    "translations": [
+                                        {
+                                            "language": "en",
+                                            "text": "read"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "aus den Zeilen konnte man gewisse Zweifel lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "reading between the lines, one could make out certain doubts"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "in seiner Miene war Verbitterung zu lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "there were signs of bitterness in his expression"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "aus der Hand lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "read palms"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "jmds. Gedanken lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "read sb's mind or thoughts"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "sich (Dat.) aus der Hand lesen lassen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "have one's palm or hand read"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "Gedanken lesen können",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "be a mind-reader"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "id": "b-de-en0026233.003",
+                                    "notes": [
+                                        {
+                                            "text": "entnehmen",
+                                            "type": "indicator"
+                                        }
+                                    ],
+                                    "translations": [
+                                        {
+                                            "language": "en",
+                                            "notes": [
+                                                {
+                                                    "text": "in + Dat",
+                                                    "type": "prepositionNote"
+                                                },
+                                                {
+                                                    "text": "aus",
+                                                    "type": "prepositionNote"
+                                                },
+                                                {
+                                                    "text": "from",
+                                                    "type": "prepositionNote"
+                                                }
+                                            ],
+                                            "text": "tell"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "domains": [
+                                        "University"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "er liest neue Geschichte/Völkerrecht",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "he lectures on modern history/international law"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "id": "b-de-en0026233.004",
+                                    "translations": [
+                                        {
+                                            "language": "en",
+                                            "notes": [
+                                                {
+                                                    "text": "on",
+                                                    "type": "prepositionNote"
+                                                },
+                                                {
+                                                    "text": "über + Akk",
+                                                    "type": "prepositionNote"
+                                                }
+                                            ],
+                                            "text": "lecture"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Reflexive",
+                                    "type": "Pronominal"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "notes": [
+                                {
+                                    "text": "irregular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "es liest sich sehr unterhaltsam",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "it's a very entertaining read"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "text": "es liest sich leicht/schnell",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "it is easy/quick to read"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "id": "b-de-en0026233.006",
+                                    "translations": [
+                                        {
+                                            "language": "en",
+                                            "text": "read"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "notes": [
+                                {
+                                    "text": "irregular",
+                                    "type": "grammaticalNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "examples": [
+                                        {
+                                            "text": "Ähren lesen",
+                                            "translations": [
+                                                {
+                                                    "language": "en",
+                                                    "text": "glean [ears of corn]"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "id": "b-de-en0026234.002",
+                                    "notes": [
+                                        {
+                                            "text": "sammeln, pflücken",
+                                            "type": "indicator"
+                                        }
+                                    ],
+                                    "translations": [
+                                        {
+                                            "language": "en",
+                                            "text": "pick"
+                                        },
+                                        {
+                                            "language": "en",
+                                            "text": "gather"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "b-de-en0026234.003",
+                                    "notes": [
+                                        {
+                                            "text": "aussondern",
+                                            "type": "indicator"
+                                        }
+                                    ],
+                                    "translations": [
+                                        {
+                                            "language": "en",
+                                            "text": "pick over"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "de",
+                    "lexicalCategory": "Verb",
+                    "text": "lesen"
+                }
+            ],
+            "type": "headword",
+            "word": "lesen"
+        }
+    ]
+}

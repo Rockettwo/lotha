@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "205582175521",
+    "project_id": "lotha-2ccbe",
+    "storage_bucket": "lotha-2ccbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205582175521:android:18f1f30a2952eb7f",
+        "android_client_info": {
+          "package_name": "bkfgroup.lotha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205582175521-i65cbfbfcpjh8fh9estagb7t8e26gc0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bkfgroup.lotha",
+            "certificate_hash": "8be22d1b1279d1bf06b20452ed4d386ac177e7cf"
+          }
+        },
+        {
+          "client_id": "205582175521-nd9cf951781oap5mpco1ckts3nn32u4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuw6s-524GW4Bgi9UKkCyHTWRpE6YyhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205582175521-nd9cf951781oap5mpco1ckts3nn32u4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
