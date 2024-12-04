@@ -4,6 +4,8 @@
 
 An application to learn from words you recently looked up in the dictionary.
 
+Co-Creators: Lulu und Fidschi
+
 <p float="left">
   <img src="/pictures/translator.jpeg" width="400" />
   <img src="/pictures/trainer.jpeg" width="400" /> 
